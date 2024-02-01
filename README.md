@@ -73,7 +73,6 @@ We will go over the following topics:
 
 </details>
 
-Made a change
 
 ## :books: Resources
 - [About code scanning](https://docs.github.com/en/github/finding-security-vulnerabilities-and-errors-in-your-code/about-code-scanning)
